@@ -7,7 +7,7 @@
 <title>Registration Form</title>
 </head>
 <body>
-<h1>US Mountain Travel Regestration</h1>
+<h1>US Mountain Travel Regestration 1st batch</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
